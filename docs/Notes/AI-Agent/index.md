@@ -11,7 +11,6 @@ Notes on designing, building, and operating AI agent systems — including orche
 
 
 * [:lucide-panel-left-dashed: AI Agent System Architecture](ai-agent-architecture.md)
-<!-- * [:lucide-panel-left-dashed: Multi-Agent Architecture](multi-agent-architecture.md) -->
 
 
 * [:lucide-scale: Single-Agent vs Multi-Agent](single-agent-vs-multi-agent.md)
