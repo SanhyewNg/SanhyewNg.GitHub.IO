@@ -53,7 +53,7 @@ dev_addr = "localhost:3000"
 nav = [
   "index.md",
   { "Experience" = [
-    #  { "Experience" = [
+     { "Experience" = [
         "Experience/index.md",
         { "AI Agent" = [
             "Experience/AI-Agent/index.md",
@@ -100,10 +100,10 @@ nav = [
             "Experience/Camera-System/digital-detail-enhancement.md"
 
         ]},
-    #  ]}
+     ]}
   ]},
   { "Projects" = [
-    # { "Projects" = [
+    { "Projects" = [
         "Projects/index.md",
         "Projects/AI-Service-SaaS-SANAI.md",
         "Projects/Personal-AI-Assistant-Desktop-App.md",
@@ -111,10 +111,10 @@ nav = [
         "Projects/Medical-Imaging-Analysis-SaaS.md",
         "Projects/AI-Learning-Path-Platform.md"
 
-    # ]}
+    ]}
   ]},
   { "Notes" = [
-    # { "Notes" = [
+    { "Notes" = [
       "Notes/index.md",
 
       { "AI Agent" = [
@@ -163,15 +163,15 @@ nav = [
 
       ]}
 
-    # ]}
+    ]}
   ]},
   { "About" = [
-    #  { "About" = [
+     { "About" = [
         "About/index.md",
         "About/Direction.md",
         "About/Life.md",
         "About/Contact.md"
-    #  ]}
+     ]}
   ]},
 #   { "GitHub Repo" = "https://github.com/zensical/docs"}
 ]
