@@ -1,2 +1,3 @@
 # SanhyewNg.GitHub.IO
-Source code for personal website hosted on GitHub Pages
+
+Source code for personal website hosted on GitHub Pages created using Zensical.
