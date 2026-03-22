@@ -61,7 +61,7 @@ nav = [
             "Experience/AI-Agent/voice-call-agent.md",
             "Experience/AI-Agent/email-agent.md",
             "Experience/AI-Agent/multi-agent-orchestration.md",
-            "Experience/AI-Agent/persistent-memory.md",
+            "Experience/AI-Agent/persistent-memory.md"
 
         ]}, 
         { "Applied LLM" = [
@@ -70,7 +70,7 @@ nav = [
             "Experience/Applied-LLM/resume-tailoring-engine.md",
             "Experience/Applied-LLM/live-interview-copilot.md",
             "Experience/Applied-LLM/rag-document-assistant.md",
-            "Experience/Applied-LLM/llm-evaluation-pipeline.md",
+            "Experience/Applied-LLM/llm-evaluation-pipeline.md"
 
         ]},
         { "Deep Learning" = [
@@ -79,7 +79,7 @@ nav = [
             "Experience/Deep-Learning/microscopy-instance-segmentation.md", 
             "Experience/Deep-Learning/speaker-recognition.md", 
             "Experience/Deep-Learning/voice-clone-tts.md", 
-            "Experience/Deep-Learning/WRB-crack-detection.md", 
+            "Experience/Deep-Learning/WRB-crack-detection.md" 
             
         ]},
         { "Computer Vision" = [
@@ -88,8 +88,7 @@ nav = [
             "Experience/Computer-Vision/object-detection-tracking.md",
             "Experience/Computer-Vision/feature-matching-registration.md",
             "Experience/Computer-Vision/video-stabilization.md",
-            "Experience/Computer-Vision/horse-video-auto-clipper.md",
-
+            "Experience/Computer-Vision/horse-video-auto-clipper.md"
 
         ]},
         { "Camera System" = [
@@ -98,10 +97,10 @@ nav = [
             "Experience/Camera-System/nonuniformity-correction.md",
             "Experience/Camera-System/bad-pixel-replacement.md",
             "Experience/Camera-System/digital-noise-reduction.md",
-            "Experience/Camera-System/digital-detail-enhancement.md",
+            "Experience/Camera-System/digital-detail-enhancement.md"
 
         ]},
-     ]},
+     ]}
   ]},
   { "Projects" = [
     { "Projects" = [
@@ -110,27 +109,29 @@ nav = [
         "Projects/Personal-AI-Assistant-Desktop-App.md",
         "Projects/Smart-Surveillance-System.md",
         "Projects/Medical-Imaging-Analysis-SaaS.md",
-        "Projects/AI-Learning-Path-Platform.md",
+        "Projects/AI-Learning-Path-Platform.md"
 
-    ]},
+    ]}
   ]},
   { "Notes" = [
     { "Notes" = [
-        "Notes/index.md",
+      "Notes/index.md",
 
       { "AI Agent" = [
         "Notes/AI-Agent/index.md",
         "Notes/AI-Agent/ai-agent-architecture.md",
         "Notes/AI-Agent/single-agent-vs-multi-agent.md",
         "Notes/AI-Agent/pydanticai-vs-langchain-vs-llamaindex.md",
-        "Notes/AI-Agent/tool-calling-vs-function-calling.md",
+        "Notes/AI-Agent/tool-calling-vs-function-calling.md"
+
       ]},
 
       { "LLM" = [
         "Notes/LLM/index.md",
         "Notes/LLM/rag-vs-fine-tuning.md",
         "Notes/LLM/qdrant-vs-pinecone-vs-weaviate.md",
-        "Notes/LLM/openai-vs-google-ai-vs-anthropic.md",
+        "Notes/LLM/openai-vs-google-ai-vs-anthropic.md"
+
       ]},
 
       { "DevOps" = [
@@ -138,7 +139,8 @@ nav = [
         "Notes/DevOps/opentelemetry-vs-logging.md",
         "Notes/DevOps/docker-vs-native-deployment.md",
         "Notes/DevOps/microservices-vs-monolith.md",
-        "Notes/DevOps/github-vs-gitlab.md",
+        "Notes/DevOps/github-vs-gitlab.md"
+
       ]},
 
       { "Web Dev" = [
@@ -147,7 +149,8 @@ nav = [
         "Notes/Web-Dev/mongodb-vs-postgresql.md",
         "Notes/Web-Dev/fastapi-vs-flask-vs-django.md",
         "Notes/Web-Dev/tailwind-vs-mui-vs-styled-components.md",
-        "Notes/Web-Dev/react-vs-vue-vs-angular.md",
+        "Notes/Web-Dev/react-vs-vue-vs-angular.md"
+
       ]},
 
       { "CV & ML" = [
@@ -156,8 +159,9 @@ nav = [
         "Notes/CV-ML/pytorch-vs-tensorflow.md",
         "Notes/CV-ML/opencv-vs-scikit-image.md",
         "Notes/CV-ML/spyder-vs-vscode.md",
-        "Notes/CV-ML/matlab-vs-python.md",
-      ]},
+        "Notes/CV-ML/matlab-vs-python.md"
+
+      ]}
 
     ]}
   ]},
@@ -166,7 +170,7 @@ nav = [
         "About/index.md",
         "About/Direction.md",
         "About/Life.md",
-        "About/Contact.md",
+        "About/Contact.md"
      ]}
   ]},
 #   { "GitHub Repo" = "https://github.com/zensical/docs"}
