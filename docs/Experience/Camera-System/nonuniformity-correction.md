@@ -4,6 +4,8 @@ icon: lucide/package-check
 
 # Non-Uniformity Correction (NUC)
 
+![Before and after NUC](./images/before-after-NUC.png "Before and after NUC")
+
 ## Overview
 
 Implemented algorithms to correct pixel-wise response variations in image sensors, improving image uniformity.
@@ -48,4 +50,3 @@ flowchart LR
 * Improved visual consistency across frames
 * Enhanced downstream processing reliability
 
-![Before and after NUC](./images/before-after-NUC.png "Before and after NUC")

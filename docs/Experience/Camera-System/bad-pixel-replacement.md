@@ -4,6 +4,8 @@ icon: lucide/package-check
 
 # Bad Pixel Replacement (BPR)
 
+![Before and after BPR](./images/before-after-BPR.png "Before and after BPR")
+
 ## Overview
 
 Designed methods to detect and replace defective pixels in image sensors.
@@ -47,4 +49,3 @@ flowchart TD
 * Increased robustness of camera output
 
 
-![Before and after BPR](./images/before-after-BPR.png "Before and after BPR")

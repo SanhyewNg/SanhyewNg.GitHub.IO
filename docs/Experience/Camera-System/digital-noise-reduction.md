@@ -4,6 +4,8 @@ icon: lucide/package-check
 
 # Digital Noise Reduction (DNR)
 
+![Before and after DNR](./images/before-after-DNR.jpg "Before and after DNR")
+
 ## Overview
 
 Implemented noise reduction algorithms to improve image quality, especially under low-light conditions.
@@ -44,4 +46,3 @@ flowchart LR
 * Improved low-light performance
 * Enhanced downstream computer vision reliability
 
-![Before and after DNR](./images/before-after-DNR.jpg "Before and after DNR")

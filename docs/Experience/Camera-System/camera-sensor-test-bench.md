@@ -4,6 +4,8 @@ icon: lucide/package-check
 
 # Camera & Sensor Test Bench
 
+![Camera & Sensor Test Bench](./images/camera-sensor-test-bench.png)
+
 ## Overview
 
 Developed a testing framework for evaluating camera sensors and image processing algorithms under controlled conditions.
@@ -55,4 +57,3 @@ flowchart TD
 * Accelerated development and validation of ISP algorithms
 * Improved reproducibility of testing workflows
 
-![Camera & Sensor Test Bench](./images/camera-sensor-test-bench.png)

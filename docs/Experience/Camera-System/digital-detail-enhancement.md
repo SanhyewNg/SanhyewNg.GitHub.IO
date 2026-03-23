@@ -4,6 +4,8 @@ icon: lucide/package-check
 
 # Digital Detail Enhancement (DDE)
 
+![Before and after DDE](./images/before-after-DDE.png "Before and after DDE")
+
 ## Overview
 
 Developed algorithms to enhance fine details and edges in images while minimizing noise amplification.
@@ -46,4 +48,3 @@ flowchart LR
 * Enhanced fine textures and edges
 * Maintained natural image appearance
 
-![Before and after DDE](./images/before-after-DDE.png "Before and after DDE")
