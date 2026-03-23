@@ -5,6 +5,7 @@ hide:
   - path
   - tags
   - footer
+  - action
 ---
 
 # Home
@@ -67,7 +68,7 @@ article.md-content__inner {
 }
 </style>
 
-<img class="profile-img" src="./avatar.jpg">
+<img class="profile-img" src="avatar.jpg">
 
 <div class="profile-name">
 Sanhyew Ng

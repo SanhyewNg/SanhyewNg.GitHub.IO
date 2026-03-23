@@ -43,6 +43,11 @@ site_dir = "site"
 use_directory_urls = true
 dev_addr = "localhost:3000"
 
+# repo_url = "https://github.com/SanhyewNg/SanhyewNg.GitHub.IO"
+# repo_name = "SanhyewNg.GitHub.IO"
+# edit_uri = "edit/main/docs/"
+
+
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
 # derive the navigation structure from the directory structure of your
@@ -211,7 +216,7 @@ favicon = "favicon.png"
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"
 # option in the "theme" subsection. The logo must be a relative path to a file
-# in your "docs_dir", e.g., to use `docs/assets/logo.png` you would set:
+# in your "docs_dir", e.g., to use `docs/favicon.png` you would set:
 # ----------------------------------------------------------------------------
 logo = "favicon.png"
 
@@ -246,6 +251,10 @@ custom_dir = "overrides"
 # - https://zensical.org/docs/setup/language/
 #
 language = "en"
+
+
+font.text = "Inter"
+font.code = "JetBrains Mono"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
@@ -437,9 +446,13 @@ scheme = "slate"
 toggle.icon = "material/brightness-4"
 toggle.name = "Now dark mode. Click to switch to system preference."
 
-# palette.primary = "red"
-# palette.accent = "green"
+primary = "blue"
+accent = "indigo"
 
+[project.theme.icon]
+repo = "fontawesome/brands/github"
+edit = "material/pencil"
+view = "material/eye"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
