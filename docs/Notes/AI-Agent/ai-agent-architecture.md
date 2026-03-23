@@ -41,24 +41,24 @@ flowchart TD
 
 * **Planner / Orchestrator**
 
-  * task decomposition
-  * decision making
+    * task decomposition
+    * decision making
 
 * **Tool / Execution Agents**
 
-  * API calls
-  * LLM interactions
-  * external tools
+    * API calls
+    * LLM interactions
+    * external tools
 
 * **Memory / State**
 
-  * short-term (conversation)
-  * long-term (vector DB, storage)
+    * short-term (conversation)
+    * long-term (vector DB, storage)
 
 * **Output Generator**
 
-  * response formatting
-  * final output
+    * response formatting
+    * final output
 
 
 ## 🧩 Single-Agent Architecture
@@ -180,12 +180,12 @@ flowchart TD
 
 * **Short-term**
 
-  * conversation context
+    * conversation context
 
 * **Long-term**
 
-  * embeddings (RAG)
-  * structured storage
+    * embeddings (RAG)
+    * structured storage
 
 
 ## 🚀 Scaling & Deployment
