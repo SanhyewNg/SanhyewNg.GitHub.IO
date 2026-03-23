@@ -29,19 +29,19 @@ flowchart TD
 
 ## ⚙️ Engineering Principles
 
-* **End-to-End Thinking**
+* **End-to-End Thinking**  
   Design systems, not isolated models.
 
-* **Production First**
+* **Production First**  
   Focus on scalability, observability, and maintainability.
 
-* **Data-Centric AI**
+* **Data-Centric AI**  
   Data quality > model complexity.
 
-* **Composable Systems**
+* **Composable Systems**  
   Modular, extensible, and API-driven architectures.
 
-* **Human-in-the-Loop**
+* **Human-in-the-Loop**  
   Keep systems controllable and interpretable.
 
 
