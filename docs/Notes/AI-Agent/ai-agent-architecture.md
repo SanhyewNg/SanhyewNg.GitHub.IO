@@ -2,7 +2,7 @@
 icon: lucide/panel-left-dashed
 --- 
 
-# :lucide-panel-left-dashed: AI Agent System Architecture Guide
+# :lucide-panel-left-dashed: AI Agent System Architecture
 
 
 ## 🧠 Overview
