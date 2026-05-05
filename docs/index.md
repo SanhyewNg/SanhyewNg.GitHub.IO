@@ -68,7 +68,7 @@ article.md-content__inner {
 }
 </style>
 
-<img class="profile-img" src="avatar.jpg">
+<img class="profile-img" src="avatar.png">
 
 <div class="profile-name">
 Sanhyew Ng
